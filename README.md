@@ -14,17 +14,17 @@ This project implements a complete quantitative trading workflow:
 
 ## Project Structure
 
-quant-trading-lab/
-├── src/
-│   ├── data/           # Data fetching and processing
-│   ├── indicators/     # Technical indicator implementations
-│   ├── strategies/     # Trading strategy implementations
-│   ├── backtest/       # Backtesting engine
-│   └── visualization/  # Charts and reports
-├── tests/              # Unit tests
-├── notebooks/          # Jupyter analysis notebooks
-├── docs/               # Documentation
-└── data/               # Local data storage (not tracked)
+quant-trading-lab/<br>
+├── src/<br>
+│   ├── data/           # Data fetching and processing<br>
+│   ├── indicators/     # Technical indicator implementations<br>
+│   ├── strategies/     # Trading strategy implementations<br>
+│   ├── backtest/       # Backtesting engine<br>
+│   └── visualization/  # Charts and reports<br>
+├── tests/              # Unit tests<br>
+├── notebooks/          # Jupyter analysis notebooks<br>
+├── docs/               # Documentation<br>
+└── data/               # Local data storage (not tracked)<br>
 
 ## Tech Stack
 
@@ -38,8 +38,8 @@ quant-trading-lab/
 
 1. Clone the repository
    ```bash
-   git clone git@github.com:yourname/quant-trading-lab.git
-   cd quant-trading-lab
+   git clone git@github.com:scanatpc/quant_trading_lab.git
+   cd quant_trading_lab
    ```
 
 2. Set up virtual environment
@@ -60,7 +60,7 @@ quant-trading-lab/
 
 ## Status
 
-🚧 Under active development
+Under active development
 
 ## License
 
